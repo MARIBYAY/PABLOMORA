@@ -1,34 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 ,GOLTV
-https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hhigh.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTR5bjk3NTVvOTQ2dy5jbG91ZGZyb250Lm5ldC9Hb2xfMjRoL2dvbF8yNGgvZ29sXzI0aGhpZ2gubTN1OCIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMTk1LjEyOC4xMy43NC8zMiJ9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwNTQ1OTUyOX19fV19&Signature=cF6BpDKge4ujP98mM7fd8evYXJ5jZJNFFX8OVbvBeBijr0Brq7-2fLvN9Zt5u5577tI4QFOO~i4DpI-RZqIlLn-lAoUCOeozPgRXHyjXQ-8nqQrDFKJnYoqy3AgEym07F3PU-OVJe8qLLjaBKExs-cmGy11ECc8Vz6UvWjZDUXJxNzWGhd4rk2ODjFr1ITwJ2LceCIYkRDIO0MzApBtBKhDSg9QpCOrlZaXAKnJb62fxD8-vxrVcQgXQi0nUw0RWE1wsSDaV1Yaisx8kkGxewWjReQsrDvKZiD-iMzkH7oCyRKcEQ6lTAgFj7njfzH8inF63uplRKYyswZc2687Dkg__&Key-Pair-Id=APKAIAZ5PGRVVQBQUQTA
-
-#EXTINF:-1 ,CHARM CITY KINGS
-https://860718363.tapecontent.net/radosgw/g90apg4p7wtJkk/9riRwK5HFBOI7JyR60pUn1TgNXr8lAJwibEt6qlpI5FPisc1EJeaur27v61X_vzAvHhXrXfnvqZXy1ZExjv4pZwzNhtO9v1rDPCzeyCxU7t9Ld3-u45MDj5pqhATfo0m5lcG1sKVm8PUuZ0xkU9gkasHZGhC6Vi2d7M-wnN2yuijZ-fxVWs8BBWPX0Pi83M7C_AYredXSCNQrvP0elKiEq7MrD560bND2D5OQFbP6CiQh3e6lA6C-Srkx9ofGnfmLh7YBjaGKMbxsPkf/tt9048840+720+es.mp4?stream=1
-#EXTINF:-1 EXTINF:-1 tvg-id="" tvg-name="Somos Osos The Movie (2020)" tvg-logo="https://nosomosnonos.com/wp-content/uploads/2020/05/We-Bare-Bears-The-Movie.jpg" group-title="JORDAN",Somos Osos the movie (2020)
-https://str21.vidoza.net/nvl4pyxjuaesxhvm3xrq5gninlebkhbafpakkcxk2kshvyydpc6o4qt2p74q/v.mp4
-
-
 #EXTINF:-1 tvg-id="LA SEXTA" tvg-name="LA SEXTA  FHD" tvg-logo="https://i.pinimg.com/originals/8f/4f/66/8f4f66408ba733251d17b0d0c4d63922.png" group-title="[ESP] TDT",LA SEXTA  FHD
 https://livestartover-i.akamaized.net/lasexta/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-id="M. ESTRENOS" tvg-name="MOVISTAR ESTRENOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" group-title="[ESP] MOVISTAR CANALES",MOVISTAR ESTRENOS HD
-https://espare.tk/live/m_estrenos.m3u8?token=QCkTM1x7Ffih7IIdfmh8fg&expires=1605403353
+https://www903.o0-2.com/token=Ip4I5dJSdQCf5qbhE-5Mbg/1605560131/195.128.0.0/133/5/92/8bc3d74d9b72afd78a7d6a963333c925-360p.mp41 ,SOMOS OSOS
+https://str15.vidoza.net/nvl4z4gwuaesxhvm3xrq5wv6hmhusr25sfxiw2w7o5gdivtwlmuulmhezyza/v.mp4
 
-#EXTINF:-1 tvg-id="M. LaLiga" tvg-name="LA LIGA TV BAR FHD" tvg-logo="https://www.andorratelecom.com/at/llistat-canals/canals/208-laliga-tv-bar.png" group-title="[ESP] FUTBOL VIP",LA LIGA TV BAR FHD
-https://espare.tk/live/m_liga.m3u8?token=ERrZQL6H-Fo-8sZUQBFriQ&expires=1605403854
 
-#EXTINF:-1 ,VAMOS
-https://espare.tk/live/vamos.m3u8?token=yPNvhCp0_Oac0bN8DIJhiA&expires=1605413117
-
-#EXTINF:-1 ,LIGA DE CAMPEONES
-https://u65464.cdn884.net:8443/hls/jpp4paa5hi5vih.m3u8?s=LXd_rETTfD3_TaTY48r-rQ&e=1605413486
-#EXTINF:-1 ,ESPN2
-https://live.televisiongratishd.com/tvplus2021/18_.m3u8?token=krjUseJ5Gv8-X7ZMOT-k3A&expires=1605415287
-
-#EXTINF:-1 ,MALDITOS BASTARDOS       
-
-http://poyonlinepoy.com:80/julianboy/comvwr4CLgttP/19397
-
-#EXTINF:-1 ,CHAVO 24/7
-http://poyonlinepoy.com/mariopepe/vwr4CLgttP/6084
+https://www903.o0-2.com/token=Ip4I5dJSdQCf5qbhE-5Mbg/1605560131/195.128.0.0/133/5/92/8bc3d74d9b72afd78a7d6a963333c925-360p.mp4
