@@ -1,10 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="DJANGO" tvg-logo="https://vistapointe.net/images/django-unchained-9.jpg" group-title="TARANTINO",Django (2012)
+https://s10.netu.tv/download/FQN-wl5UoLBvpEvA0q7s_w/1605576415/flv/api/files/videos/2019/08/03/156483600650u79.mp4
+#EXTINF:-1 EXTINF:-1 tvg-id="" tvg-name="Pulp Fiction(1999)" tvg-logo="https://pics.filmaffinity.com/Pulp_Fiction-210382116-mmed.jpg" group-title="TARANTINO",Pulp Fiction (1999)
+https://s11.netu.tv/download/GQkKFKCweAhNlFlh4Fbw_w/1605574233/flv/api/files/videos/2020/09/28/1601273042zywl3.mp4
+#EXTINF:-1 EXTINF:-1 tvg-id="" tvg-name="Somos Osos The Movie (2020)" tvg-logo="https://nosomosnonos.com/wp-content/uploads/2020/05/We-Bare-Bears-The-Movie.jpg" group-title="JORDAN",Somos Osos the movie (2020)
+https://s10.netu.tv/download/LlYA2hNXFUKBgmsYGXrHvg/1605567396/flv/api/files/videos/2020/03/29/15854977152gmkf.mp4
 #EXTINF:-1 tvg-id="LA SEXTA" tvg-name="LA SEXTA  FHD" tvg-logo="https://i.pinimg.com/originals/8f/4f/66/8f4f66408ba733251d17b0d0c4d63922.png" group-title="[ESP] TDT",LA SEXTA  FHD
 https://livestartover-i.akamaized.net/lasexta/bitrate_4.m3u8
-
-#EXTINF:-1 ,SOMOS OSOS
-https://str15.vidoza.net/nvl4z4gwuaesxhvm3xrq5wv6hmhusr25sfxiw2w7o5gdivtwlmuulmhezyza/v.mp4
-
-#EXTINF:-1 ,PELI
-https://s12.netu.tv/download/eH9y2zXhTaRZpIEFfkFp3g/1605558657/flv/api/files/videos/2020/10/10/1602325606p9aoc.mp4
+#EXTINF:-1 #EXTINF:-1 EXTINF:-1 tvg-id="" tvg-name="AC DC RIVER PLATE LIFE" tvg-logo="https://www.nacionrock.com/wp-content/uploads/River-Plate.jpg" group-title="JORDAN",AC DC
+https://s9.netu.tv/download/zl-yDBPwc0w6ommfXsohbg/1605564639/flv/api/files/videos/2020/11/16/1605553741iceei.mp4
+#EXTINF:-1 ,PLUTOTV
+https://s6.netu.tv/download/9Kb4zdASyavfSLLo_6wghg/1605564414/flv/api/files/videos/2020/11/16/1605550156yw1g0.mp4
+#EXTINF:-1 EXTINF:-1 tvg-id="" tvg-name="MAREA EN LAS ENCIAS" tvg-logo="https://i.pinimg.com/originals/89/fd/7f/89fd7f8fccf79cdf5d936016ebd45bea.jpg" group-title="JORDAN",MAREA
+https://s9.netu.tv/download/blXJ_vfrqGUb9DxRrkLhaQ/1605574044/flv/api/files/videos/2020/11/16/1605553741iceei.mp4
+#EXTINF:-1 EXTINF:-1 tvg-id="" tvg-name="Lemans66" tvg-logo="https://www.elespectadorimaginario.com/assets/le-mans-66_portada.jpg" group-title="JORDAN",Lemans66
+https://s11.netu.tv/download/OorZW2g0g9oeYIf2Tqtywg/1605568172/flv/api/files/videos/2020/02/03/1580741029kch0z.mp4
+#EXTINF:-1 EXTINF:-1 tvg-id="" tvg-name="Bob Esponja AL RESCATE" tvg-logo="https://assets.nacionflix.com/__export/1595267893403/sites/debate/img/2020/07/20/91etuu29vtl.jpg_488500202.jpg" group-title="JORDAN",Bob Esponja AL RESCATE
+https://s8.netu.tv/download/NXsUlHkG_x_z6Sql1vNmsg/1605573958/flv/api/files/videos/2020/11/16/1605549523rvbun.mp4
+#EXTINF:-1 EXTINF:-1 tvg-id="" tvg-name="Malditos Bastardos" tvg-logo="https://images2.alphacoders.com/249/thumb-1920-249742.jpg" group-title="TARANTINO",Malditos Bastardos (2009)
+https://s11.netu.tv/download/8UzjBfEEZkd7b0OetyvaSA/1605574822/flv/api/files/videos/2020/11/13/1605291837tswue.mp4
