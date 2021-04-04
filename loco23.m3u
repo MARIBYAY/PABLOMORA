@@ -1,7 +1,3 @@
   
-#EXTINF: -1 CINEPREMIUM-logo = "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpStuuP8DfoHDsfzD1ufvD5k-PlkN0U_FE1NAFAkDxW9uoFgWJ" group-title = "Disponible", GOZDILLA VS KONG MPETV
-"name": "Hollywood",
-          "image": "img/canales/holly.png",
-          "url": "https://maxvideorep.com/live/hollywood/index.m3u8",
-          "url1": "https://maxvideorep.com/live/hollywood/index.m3u8",
-          "epgId": "Hollywood.TV"
+#EXTINF: -1 CINEPREMIUM-logo = "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpStuuP8DfoHDsfzD1ufvD5k-PlkN0U_FE1NAFAkDxW9uoFgWJ" group-title = "Disponible", GOZDILLA VS KONG MP
+        https://maxvideorep.com/live/hollywood/index.m3u8 
