@@ -9,3 +9,4 @@ https://vod-progressive.akamaized.net/exp=1617589835~acl=%2Fvimeo-prod-skyfire-s
 #EXTINF: -1 CINEPREMIUM-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWdDps3MXTjfKvjnnD506TNlxVVB3uuQwQqQ&usqp=CAU" group-title = "MEPTV 4k", CINE PREMIUM 1
 https://195vod-adaptive.akamaized.net/exp=1617568807~acl=%2F192274194%2F%2A~hmac=f88cbe0deccaf76ccb6e45011e86cb4941fcebe428082891f66c97f861796079/192274194/sep/video/641126391,641126381,641126373,641126366,641126361,641126356/master.m3u8
 #EXTINF: -1 CINEPREMIUM-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWdDps3MXTjfKvjnnD506TNlxVVB3uuQwQqQ&usqp=CAU" group-title = "MEPTV 4k", CINE PREMIUM 2
+https://77vod-adaptive.akamaized.net/exp=1617570510~acl=%2F130032076%2F%2A~hmac=c785c5ce0be64ea72c9ec56bc91de53aa648d41a8ab1d024420af467185f69be/130032076/sep/video/451187621/playlist.m3u8
