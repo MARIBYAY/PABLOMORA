@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF: -1 CINEPREMIUM-logo = "https://pics.filmaffinity.com/Mortal_Kombat-245960455-large.jpg" group-title = "CINE INACTIVO", MORTAL KOMBAT
+#EXTINF: -1 CINEPREMIUM-logo = "https://pics.filmaffinity.com/Mortal_Kombat-245960455-large.jpg" group-title = "CINE", MORTAL KOMBAT
 
-https://www95.uptobox.com/dl/7CIn3kPUJo36p-hcik14hqsQhDhoXZ_oqNh60cJIKUBC881Z4vSF3slkNU2Qx-L4-s9Z0e9WJM6xpHd5m13yQPLYW-1kZAdv5zSUzrYfT5LoLHQuY-lQX0i1ugQLaLLjdKz_KZkx1I_VH-97vWgNPy6wazzpvQQ0vcEm_f_sdpg/Mortal.Kombat.2021.1080P.Latino.mkv
+http://ipeteve.com/REGIOFLIX100321/m0rt4l.k0mb4t.2021.hdrip.720p.latino.mp4
 
 #EXTINF: -1 CINEPREMIUM-logo = "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg" group-title = "FÚTBOL MEPTV", La Liga HD
 
@@ -120,3 +120,19 @@ https://streamingwowza.com:1936/radioamericaquito/smil:radioamericaquito.smil/pl
 https://flucast-m04-06.flumotion.com/cope/net2.mp3
 #EXTINF: -1 CINEPREMIUM-logo = "https://cdn-profiles.tunein.com/s110106/images/logog.jpg?t=156199" group-title = "RADIO ", LA SUPREMA 96.1
 https://dattavolt.com/8150/stream
+#EXTINF: -1 CINEPREMIUM-logo = "https://lumiere-a.akamaihd.net/v1/images/outfit_domestic_teaser2_las_94429e25.jpeg" group-title = "CINE", CRUELLA
+http://ipeteve.com/REGIOFLIX100321/Cruella.SrRegio.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/la1.png"group-title="TDT ESPAÑA", TVE 1
+http://ps3u.ga/m3u/Lista01/espana/tve1/index.m3u8
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/la2.png"group-title="TDT ESPAÑA", TVE 2 
+http://ps3u.ga/m3u/Lista01/espana/tve2/index.m3u8
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/la3.png"group-title="TDT ESPAÑA", ANTENA 3 
+http://ps3u.ga/m3u/Lista01/espana/antena3/index.m3u8
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/la4.png"group-title="TDT ESPAÑA", LA CUATRO 
+http://ps3u.ga/m3u/Lista01/espana/lacuatro/index.m3u8
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/la5.png"group-title="TDT ESPAÑA", TELECINCO 
+http://ps3u.ga/m3u/Lista01/espana/telecinco/index.m3u8
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/la6.png"group-title="TDT ESPAÑA", LA SEXTA 
+http://ps3u.ga/m3u/Lista01/espana/lasexta/index.m3u8
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/mega.png"group-title="TDT ESPAÑA", MEGA 
+http://ps3u.ga/m3u/Lista01/espana/mega/index.m3u8
