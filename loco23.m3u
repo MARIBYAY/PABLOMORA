@@ -136,3 +136,65 @@ http://ps3u.ga/m3u/Lista01/espana/telecinco/index.m3u8
 http://ps3u.ga/m3u/Lista01/espana/lasexta/index.m3u8
 #EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/mega.png"group-title="TDT ESPAÑA", MEGA 
 http://ps3u.ga/m3u/Lista01/espana/mega/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/spiral_thumb.png"group-title="CINE",ESPIRAL
+http://ps3u.ga/m3u/Lista02Peliculas/espiral/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/cruella_thumb.png"group-title="CINE",CRUELLA
+http://ps3u.ga/m3u/Lista02Peliculas/cruella/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/friends_thumb.png"group-title="CINE",FRIENDS
+http://ps3u.ga/m3u/Lista02Peliculas/friends/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/despierta-la-furia_thumb.png"group-title="CINE",DESPIERTA LA FURIA
+http://ps3u.ga/m3u/Lista02Peliculas/despiertalafuria/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/ejercito-de-los-muertos_thumb.png"group-title="CINE",EJERCITO DE LOS MUERTOS
+http://ps3u.ga/m3u/Lista02Peliculas/ejercitomuertos/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/aquellos-que-desean-mi-muerte_thumb.png"group-title="CINE",AQUELLOS QUE DESEAN MI MUERTE
+http://ps3u.ga/m3u/Lista02Peliculas/deseanmimuerte/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/despues-de-ti_thumb.png"group-title="CINE",DESPUES DE TI
+http://ps3u.ga/m3u/Lista02Peliculas/despuesdeti/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/el-virtuoso_thumb.png"group-title="CINE",EL VIRTUOSO
+http://ps3u.ga/m3u/Lista02Peliculas/elvirtuoso/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/el-inmortal_thumb.png"group-title="CINE",EL INMORTAL
+http://ps3u.ga/m3u/Lista02Peliculas/elinmortal/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/palm-springs_thumb.png"group-title="CINE",PALM SPRINGS
+http://ps3u.ga/m3u/Lista02Peliculas/palmsprings/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/demon-slayer_thumb.png"group-title="CINE",TREN INFINITO
+http://ps3u.ga/m3u/Lista02Peliculas/treninfinito/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/el-protector_thumb.png"group-title="CINE",EL PROTECTOR
+http://ps3u.ga/m3u/Lista02Peliculas/elprotector/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/horizon-line_thumb.png"group-title="CINE",HORIZONTE MORTAL
+http://ps3u.ga/m3u/Lista02Peliculas/horizontemortal/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/mortal-kombat_thumb.png"group-title="CINE",MORTAL KOMBAT
+http://ps3u.ga/m3u/Lista02Peliculas/mortalkombat/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/nobody_thumb.png"group-title="CINE",NADIE
+http://ps3u.ga/m3u/Lista02Peliculas/nadie/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/chaos-wanking_thumb.png"group-title="CINE",CAOS WALKING
+http://ps3u.ga/m3u/Lista02Peliculas/caos/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/herencia-maldita_thumb.png"group-title="CINE",HERENCIA MALDITA
+http://ps3u.ga/m3u/Lista02Peliculas/relic/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/sniper_thumb.png"group-title="CINE",SNIPER
+http://ps3u.ga/m3u/Lista02Peliculas/sniper/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/godzilla-vs-kong_thumb.png"group-title="CINE",GODZILLA VS KONG
+http://ps3u.ga/m3u/Lista02Peliculas/godzillavskong/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/bad-trip_thumb.png"group-title="CINE",UN MAL VIAJE
+http://ps3u.ga/m3u/Lista02Peliculas/unmalviaje/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/buscando-a-steve-mcqueen_thumb.png"group-title="CINE",BUSCANDO A STEVE
+http://ps3u.ga/m3u/Lista02Peliculas/buscandoasteve/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/el-capitan_thumb.png"group-title="CINE",EL CAPITAN
+http://ps3u.ga/m3u/Lista02Peliculas/elcapitan/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/el-padre_thumb.png"group-title="CINE",EL PADRE
+http://ps3u.ga/m3u/Lista02Peliculas/elpadre/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/judas_thumb.png"group-title="CINE",JUDAS y el Mesias Negro
+http://ps3u.ga/m3u/Lista02Peliculas/judas/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/breach_thumb.png"group-title="CINE",AMENAZA EN EL ESPACIO
+http://ps3u.ga/m3u/Lista02Peliculas/breach/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/liga-de-la-justicia_thumb.png"group-title="CINE",LIGA DE LA JUSTICIA
+http://ps3u.ga/m3u/Lista02Peliculas/ligadelajusticia/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/raya_thumb.png"group-title="CINE",RAYA
+http://ps3u.ga/m3u/Lista02Peliculas/raya/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/en-guerra-con-mi-abuelo_thumb.png"group-title="CINE",En guerra con mi ABUELO
+http://ps3u.ga/m3u/Lista02Peliculas/abuelo/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/tom-y-jerry_thumb.png"group-title="CINE",TOM Y JERRY
+http://ps3u.ga/m3u/Lista02Peliculas/tomyjerry/index.mp4
+#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://www.polimor.club/gallery/monster-hunter_thumb.png"group-title="CINE",MONSTER HUNTER
+http://ps3u.ga/m3u/Lista02Peliculas/monsterhunter/index.mp4
+
