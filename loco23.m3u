@@ -222,3 +222,54 @@ http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/237400
 http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/237401
 #EXTINF:-1 tvg-id="" tvg-name="PY: UNICANAL" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Paraguay",PY: UNICANAL
 
+#EXTINF:-1 tvg-id="M. ACCION FHD" tvg-name="ES: MOVISTAR ACCION FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPACCI" group-title="ES 01 MOVISTAR+",ES: MOVISTAR ACCION FHD
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165056
+#EXTINF:-1 tvg-id="M. ACCION FHD" tvg-name="ES: MOVISTAR ACCION FHD (H.265)" tvg-logo="http://vipstreamtv.ddns.net:8000/images/8e7f9a4e126f279b83786682c5fb5bb4.png" group-title="ES 07 MOVISTAR + H265",ES: MOVISTAR ACCION FHD (H.265)
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165433
+#EXTINF:-1 tvg-id="M. ACCION HD" tvg-name="ES: MOVISTAR ACCION HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPACCI" group-title="ES 01 MOVISTAR+",ES: MOVISTAR ACCION HD
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165144
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES: MOVISTAR ACCION SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPACCI" group-title="ES 01 MOVISTAR+",ES: MOVISTAR ACCION SD
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165209
+#EXTINF:-1 tvg-id="M. Cine Español" tvg-name="ES: MOVISTAR CINE ESPAÑOL SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCESP" group-title="ES 01 MOVISTAR+",ES: MOVISTAR CINE ESPAÑOL SD
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165059
+#EXTINF:-1 tvg-id="mcinedocandroll.es" tvg-name="ES: MOVISTAR CINEDOC&ROLL FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPXTRA" group-title="ES 01 MOVISTAR+",ES: MOVISTAR CINEDOC&ROLL FHD
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165055
+#EXTINF:-1 tvg-id="mcinedocandroll.es" tvg-name="ES: MOVISTAR ESTRENOS (H.265)" tvg-logo="http://vipstreamtv.ddns.net:8000/images/3fb30a5886fc5a7abde540e76be475eb.png" group-title="ES 07 MOVISTAR + H265",ES: MOVISTAR ESTRENOS (H.265)
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165429
+#EXTINF:-1 tvg-id="mcinedocandroll.es" tvg-name="ES: MOVISTAR CINEDOC&ROLL FHD (H.265)" tvg-logo="http://vipstreamtv.ddns.net:8000/images/8318dfb0d895ab0ad0e10249b9cdea31.png" group-title="ES 07 MOVISTAR + H265",ES: MOVISTAR CINEDOC&ROLL FHD (H.265)
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165430
+#EXTINF:-1 tvg-id="cinedocroll.es" tvg-name="ES: MOVISTAR CINEDOC&ROLL HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPXTRA" group-title="ES 01 MOVISTAR+",ES: MOVISTAR CINEDOC&ROLL HD
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165142
+#EXTINF:-1 tvg-id="M.CineDocRoll" tvg-name="ES: MOVISTAR CINEDOC&ROLL SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPXTRA" group-title="ES 01 MOVISTAR+",ES: MOVISTAR CINEDOC&ROLL SD
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165143
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES: MOVISTAR COMEDIA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPCOME" group-title="ES 01 MOVISTAR+",ES: MOVISTAR COMEDIA FHD
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165057
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES: MOVISTAR COMEDIA FHD (H.265)" tvg-logo="http://vipstreamtv.ddns.net:8000/images/84d0b4aeb9a36cbe338beb4db4c37c2c.png" group-title="ES 07 MOVISTAR + H265",ES: MOVISTAR COMEDIA FHD (H.265)
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165432
+#EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-name="ES: MOVISTAR COMEDIA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPCOME" group-title="ES 01 MOVISTAR+",ES: MOVISTAR COMEDIA HD
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165202
+#EXTINF:-1 tvg-id="M.COMEDIA" tvg-name="ES: MOVISTAR COMEDIA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPCOME" group-title="ES 01 MOVISTAR+",ES: MOVISTAR COMEDIA SD
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165203
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES: MOVISTAR DEPORTES FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPDEP" group-title="ES 01 MOVISTAR+",ES: MOVISTAR DEPORTES FHD
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165062
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES FHD (H.265)" tvg-logo="http://vipstreamtv.ddns.net:8000/images/f158e7a8ccdbd9b30041609ec61504e3.png" group-title="ES 07 MOVISTAR + H265",ES: MOVISTAR DEPORTES FHD (H.265)
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165424
+#EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-name="ES: MOVISTAR DEPORTES HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPDEP" group-title="ES 01 MOVISTAR+",ES: MOVISTAR DEPORTES HD
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165150
+#EXTINF:-1 tvg-id="M. DEPORTES" tvg-name="ES: MOVISTAR DEPORTES SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPDEP" group-title="ES 01 MOVISTAR+",ES: MOVISTAR DEPORTES SD
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165151
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DISNEY HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MDISNE" group-title="ES 01 MOVISTAR+",ES: MOVISTAR DISNEY HD
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165243
+#EXTINF:-1 tvg-id="mdrama.es" tvg-name="ES: MOVISTAR DRAMA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPCOLE" group-title="ES 01 MOVISTAR+",ES: MOVISTAR DRAMA FHD
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165058
+#EXTINF:-1 tvg-id="mdrama.es" tvg-name="ES: MOVISTAR DRAMA FHD (H.265)" tvg-logo="http://vipstreamtv.ddns.net:8000/images/d276ca5bf05564a4d77af59a689f7441.png" group-title="ES 07 MOVISTAR + H265",ES: MOVISTAR DRAMA FHD (H.265)
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165431
+#EXTINF:-1 tvg-id="M. DRAMA HD" tvg-name="ES: MOVISTAR DRAMA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPCOLE" group-title="ES 01 MOVISTAR+",ES: MOVISTAR DRAMA HD
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165145
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES: MOVISTAR DRAMA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPCOLE" group-title="ES 01 MOVISTAR+",ES: MOVISTAR DRAMA SD
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165146
+#EXTINF:-1 tvg-id="M.ESTRENOS FHD" tvg-name="ES: MOVISTAR ESTRENOS FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV1" group-title="ES 01 MOVISTAR+",ES: MOVISTAR ESTRENOS FHD
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165054
+#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-name="ES: MOVISTAR ESTRENOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV1" group-title="ES 01 MOVISTAR+",ES: MOVISTAR ESTRENOS HD
+http://4k.nicemay.xyz:80/2Z2A2NWEZM/6652526515/165140
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES: MOVISTAR ESTRENOS SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV1" group-title="ES 01 MOVISTAR+",ES: MOVISTAR ESTRENOS SD
