@@ -111,10 +111,12 @@ http://ipeteve.com/REGIOFLIX100321/Sangre.por.Sangre.SrRegio.mp4
 
 https://www93.uptobox.com/dl/uvsiv7dh2jAD58TA82FxAbu0de5zGcDKAHfkEhxpZuLldhbGNEirnXSruzomGD9ceZq1SEQwCQByAy3j3IPu3ccrRrA9PrakeL9oGOrRZmorCH8X62AAvwQsqSnXuDWDviKbSJv-CSwp5DsGGRF_9g/The.Conjuring.3.2021.1080p.LAT.mkv
 
-#EXTINF: -1 CINEPREMIUM-logo = "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4WM9M67xkX.jpg" group-title = "PARA PABLO ", RADIO AMERICA TV QUITO
+#EXTINF: -1 CINEPREMIUM-logo = "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4WM9M67xkX.jpg" group-title = "RADIO", RADIO AMERICA TV QUITO
 
 https://streamingwowza.com:1936/radioamericaquito/smil:radioamericaquito.smil/playlist.m3u8?
 
-#EXTINF: -1 CINEPREMIUM-logo = "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4WM9M67xkX.jpg" group-title = "PARA PABLO ", RADIO
+#EXTINF: -1 CINEPREMIUM-logo = "https://institucional.cope.es/wp-content/uploads/2019/02/COPE.png" group-title = "RADIO ", COPE
 
 https://flucast-m04-06.flumotion.com/cope/net2.mp3
+#EXTINF: -1 CINEPREMIUM-logo = "https://cdn-profiles.tunein.com/s110106/images/logog.jpg?t=156199" group-title = "RADIO ", LA SUPREMA 96.1
+https://dattavolt.com/8150/stream
